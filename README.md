@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World! 👋
+I'm a software engineering teacher and resercher at [Universidad ORT Uruguay](https://www.ort.edu.uy/)
+* 🌱 I’m currently learning how to `code` with people to solve problems
+* I enjoy photography 📷 nature 🏕️ gaming 🕹️ and space exploration 🚀
 
 <!--
 **martinsolari/martinsolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
